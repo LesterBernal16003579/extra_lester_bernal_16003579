@@ -1,0 +1,3 @@
+Programa de cotizaciones, que permite devolver los valores que tendra que pagar dependiente de ciertas caracteristicas, edad, si tiene conyugue o si tiene hijos. 
+Le permite al usuario de formar dinamica analizar los datos, si necesidad de hacer el calculo manualmente. 
+Si escribe salir el programa se termina. 

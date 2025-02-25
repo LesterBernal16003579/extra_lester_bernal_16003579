@@ -1,0 +1,40 @@
+Algoritmo
+Se declaran las variables: 
+precio_ base
+edad_18
+edad_25
+edad_50
+recargo
+recargo_total
+precio_final
+se declara la varialbe nombre y se solicita que ingresen los datos.
+se declara la variable edad y se solicita que ingrese la edad. 
+se declra la variable edad_numero y se asegura de convertir a numero la variable edad. 
+se valida que la edad_numero si es menor a 18 temine el programa.
+se declara la variable casado y se solicita que ingrese SI o NO. 
+se declara la variable edad_conyuge y  si esta casado se sollicita que ingrese la edad_conyuge
+se declara la variable hijos y se solicita que la pueda SI o NO. 
+se declara la variable cantida_hijos y se solicita que pueda ingresar la cantidad de hijos.
+Se hace el calculo del recargo por edad
+Se valida que si tienela edad mayor o igual a 18 y menor de 25  multiplique la varialbe precio_base por la edad_18  y lo guarda en la variable recargo.
+Suma recargo_total + recargo
+Si no entra en al anterior valida que si es mayor o igual a 25 o menor de 50 multiplique la varialbe precio_base por la edad_25  y lo guarda en la variable recargo. 
+Suma recargo_total + recargo
+Si no entra en al anterior valida que si es mayor o igual a 50 multiplique la varialbe precio_base por la edad_50  y lo guarda en la variable recargo. 
+Suma recargo_total + recargo
+se hace le calculo de si esta casado. 
+Se valida que si tienela edad mayor o igual a 18 y menor de 25  multiplique la varialbe precio_base por * 0.1 y lo guarda en la variable recargo_Conyuge.
+Suma recargo_total + recargo_Conyuge.
+Si no entra en al anterior valida que si es mayor o igual a 25 o menor de 50 multiplique la varialbe precio_base por 0.2  y lo guarda en la variable recargo_Conyuge.
+Suma recargo_total + recargo_Conyuge.
+Si no entra en al anterior valida que si es mayor o igual a 50 multiplique la varialbe precio_base * 0.3 y lo guarda en la variable recargo_Conyuge.
+Suma recargo_total + recargo_Conyuge.
+Se hace el calculo de si tiene hijos
+si tiene hijoz en la variable recargoHijos se guarda el dato de precio_base mulityplicado por 0.2
+Suma recargo_total + recargo_Hijos.
+se declra la variable de cantidad_Propiedades y le solicita que pueda ingreasar la información. 
+se declara la variable salario y se solicita que ingrese el monto. 
+se decalra la variable recargo_propiedades y esta es igual a precios_base multiplicado polr 0.35
+se declara la variable recargoSalario y esta es igual a salario * 0.05
+Sumarización de todo precio_final es igual a precio_base sumado a recargo_total
+Muestra los datos nombe del asegurado, recargo_total, precio_final
